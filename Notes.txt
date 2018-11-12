@@ -1,0 +1,34 @@
+EverQuest and Maslow's pyramid scheme (http://www.nickyee.com/eqt/skinner.html)
+League of Legends leveling system -> for new players up until lvl 30 each level gives a rewards that can be opened for free, but after lvl 30 rewards are not that 
+useful up until lvl 50 and every other 25 levels, which makes players grind levels for character skins.
+Competitive games / MMORPGs / Casual games
+
+1st section -> about ethics and professionalism ? ...
+2nd section could be about Skinner box specifically.
+3rd section about designing games to be addictive using so-called digital Skinner box.
+4th section -> ???
+
+Word counter:
+Introduction -> 81
+"Ethics" -> ??
+Skinner box -> 237
+Player's fault or developers' intentions? -> 158
+??? ->
+Conclusion -> +- 80
+
+Total: 476 + +-80 = 556
+
+Sources:
+http://www.techaddiction.ca/video-games-designed-to-be-addictive.html
+http://www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-to-get-you-addicted.html (Continue reading)
+http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1 (Read)
+http://www.nickyee.com/eqt/skinner.html
+http://serialganker.blogspot.com/2008/09/ethics-of-mmo-addiction.html
+https://www.smh.com.au/technology/ethical-dilemmas-20070920-gdr5a0.html
+https://www.quora.com/Are-video-games-designed-to-be-addictive
+http://faculty.uml.edu/rsiegel/47.272/documents/wk5_behavioralanalysis.pdf (Read)
+https://www.verywellmind.com/what-is-a-skinner-box-2795875
+https://www.britannica.com/biography/B-F-Skinner
+
+Notes:
+The ethical dilemma that MMO developers face is a simple one. Do they have an ethical responsibility to act in the best interest of their players?
