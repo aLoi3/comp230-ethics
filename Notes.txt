@@ -9,14 +9,14 @@ Competitive games / MMORPGs / Casual games
 4th section -> ???
 
 Word counter:
-Introduction -> 81
+Introduction -> 82
 "Ethics" -> ??
-Skinner box -> 237
-Player's fault or developers' intentions? -> 158
+Skinner box -> 347
+Player's fault or developers' intentions? -> 312
 ??? ->
-Conclusion -> +- 80
+Conclusion -> 106
 
-Total: 476 + +-80 = 556
+Total: 847
 
 Sources:
 http://www.techaddiction.ca/video-games-designed-to-be-addictive.html
@@ -32,3 +32,6 @@ https://www.britannica.com/biography/B-F-Skinner
 
 Notes:
 The ethical dilemma that MMO developers face is a simple one. Do they have an ethical responsibility to act in the best interest of their players?
+
+Title:
+Is it ethical making Massive Multi Player Role Playing Games addictive?
